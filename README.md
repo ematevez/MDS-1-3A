@@ -5,3 +5,4 @@ Clase 1  - Introduccion
 
 Escriban su nombre aca!!!
 Leandro Nahuel Quintanals
+Joaquin Almanza
