@@ -6,6 +6,7 @@ CLASE 2 - MODELOS DE DESARROLLO DE SOFTWARE
 
 
 Escriban su nombre aca!!!
+<hr><br>
 Leandro Nahuel Quintanals
 Joaquin Almanza
 
