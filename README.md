@@ -9,4 +9,4 @@ Escriban su nombre aca!!!
 
 <hr>
 Leandro Nahuel Quintanals<br>
-Joaquin Almanza<br>Antonio Riveros
+Joaquin Almanza<br>                                                                     Antonio Nahuel Riveros
