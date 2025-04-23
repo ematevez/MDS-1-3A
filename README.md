@@ -15,4 +15,6 @@ Escriban su nombre aca!!!
         	<li>Micaela Ybarra</li>
         	<li>Franco Casafus</li>
         	<li>Antonio Nahuel Riveros</li>
+          <li>Mirna Schneider</li>
    	</ul>
+
