@@ -17,5 +17,4 @@ Micaela Ybarra
 <br>
 Franco Casafus
 <Br>
-Leandro Nahuel Quintanals<br>
-Joaquin Almanza<br>                                                                     Antonio Nahuel Riveros
+Antonio Nahuel Riveros
