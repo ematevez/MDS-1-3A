@@ -9,12 +9,10 @@ CLASE 2 - MODELOS DE DESARROLLO DE SOFTWARE
 Escriban su nombre aca!!!
 
 <hr>
-Leandro Nahuel Quintanals
-<br>
-Joaquin Almanza
-<br>
-Micaela Ybarra
-<br>
-Franco Casafus
-<Br>
-Antonio Nahuel Riveros
+	<ul>
+        	<li>Leandro Nahuel Quintana</li>
+        	<li>Joaquin Almanza</li>
+        	<li>Micaela Ybarra</li>
+        	<li>Franco Casafus</li>
+        	<li>Antonio Nahuel Riveros</li>
+   	</ul>
